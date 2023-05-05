@@ -1,1 +1,1 @@
-vless://omidsheraze3@as.shadeghani.autos:4325?security=none&encryption=none&headerType=none&type=tcp#tunel-ws-1
+vless://omidsheraze3@am.shadeghani.autos:58451?type=grpc&security=tls&serviceName=&sni=am.shadeghani.autos#S4
